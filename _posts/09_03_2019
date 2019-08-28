@@ -1,0 +1,23 @@
+#Setting up VS Code for Django Development
+
+VSCode is awesome. As a long time Mac and third party IDE user, it feels weird praising something this high that was developed by Microsoft. Yet, it is awesome. I have quit using PHP Storm, Coda, and Atom all together in favor of Micrsofts free to use IDE.
+
+I have also recently being working with Python and Django almost exclusively and there are many things to pick up with that transition.
+
+Here are the top 6 tricks I have found when coding with VSCode and Django:
+
+1.
+
+2.
+
+3.
+
+4. 
+
+5.
+
+6.
+
+
+#Links
+https://code.visualstudio.com/docs/python/python-tutorial
